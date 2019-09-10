@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CursomcApiRestApplication {
 
 	public static void main(String[] args) {
+		//
 		SpringApplication.run(CursomcApiRestApplication.class, args);
 	}
 
